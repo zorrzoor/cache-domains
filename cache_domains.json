@@ -122,7 +122,12 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		}
-				{
+		{
+			"name": "ubuntu",
+			"description": "ubuntu mirrors",
+			"domain_files": ["ubuntu.txt"]
+		}
+		{
 			"name": "linux",
 			"description": "Linux mirrors",
 			"domain_files": ["centos.txt"]
