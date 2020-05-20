@@ -1,4 +1,2 @@
-http://ftp.acc.umu.se/ubuntu/*
-http://se.archive.ubuntu.com/ubuntu/*
-http://se.archive.ubuntu.com
-http://ftp.acc.umu.se
+se.archive.ubuntu.com
+ftp.acc.umu.se
